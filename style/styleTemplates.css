@@ -1,0 +1,87 @@
+button:hover {
+  background-color: rgba(205, 246, 205, 0.75);
+  color: #000000;
+}
+
+/* ----------------------HOME------------------------- */
+.btn-central{
+  border-style: none;
+  margin: 10px 10px 10px auto;
+  padding: 40px 30px;
+  color: #FFFFFF;
+  letter-spacing: 2.5px;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+.img-btn-central{
+  margin: -5% 2% 7% -1%;
+}
+
+
+#btn0{
+  background-color: #777777;
+}
+
+#btn1{
+  background-color: #003333;
+}
+
+#btn2{
+  background-color: #D9534F;
+}
+
+#btn3{
+  background-color: #5BC0DE;
+}
+
+#btn4{
+  background-color: #4f2800;
+}
+
+#btn5{
+  background-color: #990000;
+}
+
+#btn6{
+  background-color: #290a0a;
+}
+
+#btn7{
+  background-color: #290a0a;
+}
+
+#bt8{
+  background-color: #290a0a;
+}
+
+
+/* --------------------CONSULTA----------------------- */
+.img_module{
+  margin: -51px -35px 42px 116px;
+  position: absolute;
+}
+
+.btn{
+  padding: 10px 20px;
+  font-family: arial;
+  font-size: 16px;
+  margin-right: 20px;
+  border-style: inherit;
+  border-radius: 5px;
+}
+
+.btn_new{
+  background-color: #5BC0DE;
+  color: #FFFFFF;
+}
+
+.btn_back{
+  background-color: #D9534F;
+  color: #FFFFFF;
+}
+
+.btn_refresh{
+  background-color: #F0AD4E;
+  color: #FFFFFF;
+}

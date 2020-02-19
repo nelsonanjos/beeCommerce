@@ -1,0 +1,89 @@
+body{
+  background-image: url('..//webi/gallery/bg_login_opaco.jpg');
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+header{
+  background-color: #EEEEEE;
+  margin: 0% 0% 0% 0%;
+  padding: 10% 0% 0% 0%;
+  height: 0%;
+  width: 100%;
+}
+
+header p{
+  position: absolute;
+  margin: -6% 33% 0% 33%;
+  width: 34%;
+  padding: 0;
+}
+
+header h1{
+  margin: auto auto -5% auto;
+}
+
+section{
+  margin: 4% auto;
+  width: 442px;
+  height: 290px;
+  padding: 0;
+  background-color: #2C787D;
+  border-radius: 1em;
+}
+
+section input{
+  font-family: sans-serif;
+  font-size: 15px;
+  border-radius: 5px;
+  border-style: groove;
+  margin: 2%;
+  padding: 2%;
+  width: 75%;
+}
+
+#img_input_usuario{
+  margin: -4% 11% -1% -18%;
+}
+
+#img_input_email{
+  margin: 2% 11% -1% -18%;
+}
+
+a{
+  position: absolute;
+  font-size: 16px;
+  margin: -39px auto auto -168px;
+  color: #FFFFFF;
+  text-decoration: none;
+  padding: 14px 16px;
+}
+
+a:hover{
+  background-color: #CEF6CE;
+  color: #000000;
+}
+
+#voltar_btn{
+  padding: 10px 23px;
+  font-family: arial;
+  font-size: 16px;
+  margin: auto auto auto -358px;
+  background-color: #D9534F;
+  color: #FFFFFF;
+  border-style: inherit;
+  border-radius: 5px;
+}
+
+#entrar_btn{
+  padding: 10px 20px;
+  font-family: arial;
+  font-size: 16px;
+  margin: 24px auto auto 3px;
+  background-color: #5CB85C;
+  color: #FFFFFF;
+  border-style: inherit;
+  border-radius: 5px;
+}

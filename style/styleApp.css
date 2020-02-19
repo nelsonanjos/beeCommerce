@@ -1,0 +1,113 @@
+body{
+  background-color: #FFFFFF;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+/*-----------------BARRA TOPO-------------------------*/
+.topo{
+  background: #EEEEEE;
+  height: 45px;
+  width: 100%;
+}
+
+.topo h1{
+  color: #0B3B39;
+  font-family: Arial Unicode MS;
+  font-size: 20px;
+  letter-spacing: 1.5px;
+  margin: 1% 3%;
+  padding: 0;
+  position: absolute;
+}
+
+.topo h2{
+  color: #0B3B39;
+  font-family: sans-serif;
+  font-size: 20px;
+  margin: 1% 50%;
+  padding: 0;
+  position: absolute;
+}
+
+#btnHome{
+  position: absolute;
+  padding: 0;
+  margin: 1% 25%;
+}
+a:hover #btnHome{
+  background-color: rgba(205, 246, 205, 0.50);
+}
+
+#btnLogout{
+  margin: 1% auto auto 82%;
+  position: absolute;
+  padding: 0;
+}
+a:hover #btnLogout{
+  background-color: rgba(205, 246, 205, 0.50);
+}
+
+#btnNotificacao{
+  margin: 1% auto auto 94%;
+  position: absolute;
+  padding: 0;
+}
+a:hover #btnNotificacao{
+  background-color: rgba(205, 246, 205, 0.50);
+}
+
+/*------------------MENU LATERAL------------------------*/
+.menuLateral{
+  /*  position: absolute; */
+  background: #0B3B39;
+  float: left;
+  height: 90%;
+  text-shadow: 2px 2px #151515;
+  width: 20%;
+}
+
+.menuLateral ul{
+  list-style-type: none;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  background-color: #0B3B39;
+}
+
+.menuLateral li{
+  display: inline;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.menuLateral a{
+  color: #FFFFFF;
+  display: block;
+  font-size: 23px;
+  padding: 14px 16px;
+  text-decoration: none;
+  width: 100%;
+}
+
+.menuLateral a:hover{
+  background-color: rgba(205, 246, 205, 0.50);
+}
+/*----------------CONTEÚDO--------------------------*/
+.conteudo{
+  background-color: #FFFFFF;
+  float: right;
+  height: 90%;
+  width: 78%;
+}
+
+/*-----------------RODAPÉ-------------------------*/
+.rodape{
+  background-color: #BDBDBD ;
+  color: #000000;
+  display: inline;
+  float: right;
+  height: 3%;
+  text-align: center;
+  width: 100%;
+}

@@ -1,0 +1,43 @@
+/* -----------------TODA TABELA----------------- */
+.table-all{
+  border-collapse: separate;
+  border-spacing: 0 3px;
+  margin-top: 10px;
+}
+/* -----------------CABEÇALHO----------------- */
+.table-header tr{
+  background-color: #003333;
+  color: #FFFFFF;
+  font-size: 18px;
+}
+
+.table-header th{
+  padding-left: 10px;
+  padding-right: 40px;
+}
+/* -----------------CORPO (DADOS)----------------- */
+.table-body{
+  text-align: left;
+}
+.table-body tr{
+    font-family: sans-serif; 
+    font-size: 14px;
+    font-style: normal;
+}
+
+.table-body th{
+  padding-left: 10px;
+  padding-right: 40px;
+}
+
+.table-body img{
+  margin-right: 10px;
+}
+
+.table-body tr:nth-child(even){
+  background: #EEE;
+}
+
+.table-body tr:nth-child(odd){
+  background: #FFF;
+}

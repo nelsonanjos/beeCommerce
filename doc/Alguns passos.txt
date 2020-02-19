@@ -1,0 +1,2 @@
+ALterei o caminho do apache para o drive
+Alterei os arquivos php.ini, line 1371 && httpd.conf, line 254 e 255.

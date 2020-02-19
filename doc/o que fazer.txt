@@ -1,0 +1,9 @@
+index verifica o modulo pelo foreach
+os modulos sao carregados no App Controller
+o app Controller cria as ancoras que fazem um GET para o index
+que captura e direciona para a pagina do modulos
+
+o modulo é qualquer pasta dentro de Modulos
+========================OK===================================
+
+Alterar a imagem de branco para preto no js
